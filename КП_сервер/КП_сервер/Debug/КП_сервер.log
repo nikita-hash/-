@@ -1,0 +1,72 @@
+﻿  User.cpp
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(33,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(136,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(138,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(151,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(153,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(159,43): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(164,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(167,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(175,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(178,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(180,22): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(187,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(190,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(202,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(216,9): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(224,9): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(111,7): warning C4101: nameExpert: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(112,8): warning C4101: rang: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(210,44): warning C4101: name: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(210,32): warning C4101: login: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(240,12): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(278,7): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(321,14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(299,7): warning C4101: password: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(325,10): warning C4101: bus: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(332,9): warning C4101: bus: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(376,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(463,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(493,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(545,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(553,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(538,112): warning C4101: msg: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(537,6): warning C4101: check: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(573,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(595,8): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(617,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(656,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(695,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(706,8): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(714,8): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(700,113): warning C4101: buf: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(742,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(764,9): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(783,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(820,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(860,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(868,8): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(876,8): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(853,43): warning C4101: name: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(853,19): warning C4101: name2: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(853,97): warning C4101: bufproc2: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(853,54): warning C4101: bufcof1: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(853,7): warning C4101: name1: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(855,16): warning C4101: procent2: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(853,68): warning C4101: bufcof2: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(854,8): warning C4101: cof1: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(853,82): warning C4101: bufproc1: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(854,14): warning C4101: cof2: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(855,6): warning C4101: procent1: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(853,31): warning C4101: login: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(862,113): warning C4101: buf: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(896,15): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(912,8): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(924,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(927,9): warning C4101: cash: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(948,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(951,9): warning C4101: cash: неиспользованная локальная переменная
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(398): warning C4715: User::AutorizationAdmin: значение возвращается не при всех путях выполнения
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(485): warning C4715: User::AutorizationClient: значение возвращается не при всех путях выполнения
+C:\Users\Gena\source\repos\КП_сервер\КП_сервер\User.cpp(515): warning C4715: User::AutorizationExpert: значение возвращается не при всех путях выполнения
+  КП_сервер.vcxproj -> C:\Users\Gena\source\repos\КП_сервер\Debug\КП_сервер.exe
