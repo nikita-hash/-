@@ -1,0 +1,4 @@
+﻿  Menu.cpp
+C:\Users\Gena\source\repos\КП_Клиент\КП_Клиент\Menu.cpp(31,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Gena\source\repos\КП_Клиент\КП_Клиент\Menu.cpp(98,9): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  КП_Клиент.vcxproj -> C:\Users\Gena\source\repos\КП_Клиент\Debug\КП_Клиент.exe
